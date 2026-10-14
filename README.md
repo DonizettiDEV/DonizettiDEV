@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Meu nome é Donizetti de Lima Calheiros, tenho 19 anos e estudo Análise e Desenvolvimento de Sistemas na Anhanguera de Maceió. Estou me dedicando ao aprendizado de Java, com foco no desenvolvimento de aplicações utilizando Spring Boot, Spring Security, Thymeleaf e bancos de dados relacionais. Também estou aprimorando meus conhecimentos em lógica de programação, buscando construir soluções eficientes e bem estruturadas para o desenvolvimento web".
+Meu nome é Donizetti de Lima Calheiros, tenho 20 anos e estudo Análise e Desenvolvimento de Sistemas na Anhanguera de Maceió. Estou me dedicando ao aprendizado de Java, com foco no desenvolvimento de aplicações utilizando Spring Boot, Spring Security, Thymeleaf e bancos de dados relacionais. Também estou aprimorando meus conhecimentos em lógica de programação, buscando construir soluções eficientes e bem estruturadas para o desenvolvimento web".
 
 <p align="left">
     </a>
